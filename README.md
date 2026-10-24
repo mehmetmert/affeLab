@@ -1,3 +1,5 @@
+# Demo Adresi: https://mehmetmert.github.io/affeLab
+
 # 🧪 affeLab — Tarayıcınızdaki Etkileşimli Kimya & Araştırma Stüdyosu
 
 Kimya çalışırken ya da anlatırken en büyük eksikliklerden biri, kitap sayfalarındaki sabit 2 boyutlu çizimlerle gerçekte 3 boyutlu ve hareketli olan atomları, orbitalleri ve tepkimeleri hayal etmeye çalışmaktır.
