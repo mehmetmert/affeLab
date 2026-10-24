@@ -80,12 +80,3 @@ Hiçbir paket yüklemenize (`npm install` vb.) gerek yoktur:
 1. Bu depoyu bilgisayarınıza indirin (veya klonlayın).
 2. Klasörün içindeki **`index.html`** dosyasına çift tıklayarak tarayıcınızda açın. Hepsi bu kadar!
 
----
-
-## 🌐 GitHub Pages ile Canlı DemoOluşturma
-
-Projeyi GitHub'a yükledikten sonra:
-1. GitHub reponuzun üst menüsünden **Settings** (Ayarlar) sekmesine tıklayın.
-2. Sol menüden **Pages** bölümüne gelin.
-3. **Build and deployment** altındaki **Branch** seçeneğini `None` yerine **`main`** (ve klasörü `/ (root)`) olarak seçip **Save** butonuna basın.
-4. Yaklaşık 30–60 saniye içinde sayfanın üstünde **`Your site is live at https://kullanici-adiniz.github.io/repo-adiniz/`** bağlantısı belirecektir!
